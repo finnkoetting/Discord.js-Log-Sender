@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-log-sender",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnkoetting/Discord.js-Log-Sender.git"
+  },
+  "keywords": [],
+  "author": "Finn Koetting",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/finnkoetting/Discord.js-Log-Sender/issues"
+  },
+  "homepage": "https://github.com/finnkoetting/Discord.js-Log-Sender#readme"
+}
